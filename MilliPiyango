@@ -1,0 +1,16 @@
+print("     MİLLİ PİYANGO     ")
+print("    --------------    ")
+
+import random
+sayi1 = random.randint(0,9)
+sayi2 = random.randint(0,9)
+sayi3 = random.randint(0,9)
+sayi4 = random.randint(0,9)
+sayi5 = random.randint(0,9)
+sayi6 = random.randint(0,9)
+sayi7 = random.randint(0,9)
+sayi8 = random.randint(0,9)
+sayi9 = random.randint(0,9)
+print(sayi1,sayi2,sayi3,sayi4,sayi5,sayi6,sayi7,sayi8,sayi9)
+print("    --------------   ")
+print("KUMAR OYNAMAK GÜNAHTIR ")
